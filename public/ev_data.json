@@ -1,0 +1,9 @@
+[
+  { "Year": 2018, "Manufacturer": "Tesla", "Model": "Model S", "Type": "BEV", "Registrations": 12000 },
+  { "Year": 2018, "Manufacturer": "Nissan", "Model": "Leaf", "Type": "BEV", "Registrations": 9000 },
+  { "Year": 2019, "Manufacturer": "Tesla", "Model": "Model 3", "Type": "BEV", "Registrations": 25000 },
+  { "Year": 2020, "Manufacturer": "Ford", "Model": "Mustang Mach-E", "Type": "BEV", "Registrations": 15000 },
+  { "Year": 2021, "Manufacturer": "Toyota", "Model": "Prius Prime", "Type": "PHEV", "Registrations": 9500 },
+  { "Year": 2022, "Manufacturer": "Hyundai", "Model": "Kona Electric", "Type": "BEV", "Registrations": 9000 },
+  { "Year": 2023, "Manufacturer": "Kia", "Model": "Niro EV", "Type": "BEV", "Registrations": 8000 }
+]
